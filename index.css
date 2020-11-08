@@ -1,0 +1,30 @@
+body{
+    background: url(rohit-choudhari-tk2_RBZq7RA-unsplash.jpg);
+    background-size: cover;
+}
+
+.myjumbo{
+    margin-top: 120px;
+    align-content: center;
+    text-align: center;
+    opacity: 0.5;
+}
+
+.icon{
+    margin-right: 10px ;
+}
+
+#fontuse{
+    font-family: 'Lobster', cursive;
+}
+hr{
+    width : 50%;
+}
+
+.mycontainer{
+    /* margin-top: 10%; */
+}
+
+.mybtn{
+    opacity: 1;
+}
